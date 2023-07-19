@@ -1,0 +1,7 @@
+The Salinas scene dataset is another popular hyperspectral dataset commonly used for land cover classification and remote sensing research. 
+It was gathered over a farm in Salinas Valley by the sensor known as the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS), California, USA. 
+The dataset consists of 512 rows and 217 columns, has 224 spectral bands in all. Each pixel in the dataset represents a 3.7x3.7-meter area on the ground. 
+The Salinas scene dataset contains 16 different classes of land cover, including various types of crops, bare soil, and vineyards. 
+The classes and their corresponding number of samples in the dataset are Brocoli_green_weeds_1: 2009 samples, Brocoli_green_weeds_2: 3726 samples, Fallow: 1976 samples, Fallow_rough_plow: 1394 samples, Fallow_smooth: 2678 samples, Stubble: 3959 samples, Celery: 3579 samples, Grapes_untrained: 11271 samples, Soil_vinyard_developed: 6203 samples, Corn_senesced_green_weeds: 3278 samples, Lettuce_romaine_4wk: 1068 samples, Lettuce_romaine_5wk: 1927 samples, Lettuce_romaine_6wk: 916 samples, Lettuce_romaine_7wk: 1070 samples, Vinyard_untrained: 7268 samples, Vinyard_vertical_trellis: 1807 samples. 
+A vector of 224 spectral values is used to represent each sample in the collection. The dataset also includes ground truth maps that indicate the true class labels for each pixel in the image.
+The Dataset is available on https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
