@@ -1,0 +1,8 @@
+The Indian Pines dataset is a Hyperspectral dataset that is commonly utilized in the processing of hyperspectral images. 
+It was acquired by the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) sensor over an agricultural area in Indiana, USA. 
+224 spectral bands are contained inside the dataset's 145 rows and 145 columns. Each pixel in the dataset represents a 20x20 meter area on the ground. T
+he Indian Pines dataset contains 16 different classes of land cover, including agricultural fields, forests, and urban areas. 
+The classes and their corresponding number of samples in the dataset are Alfalfa: 46 samples, Corn-notill: 1428 samples, Corn-mintill: 830 samples, Corn: 237 samples, Grass-pasture: 483 samples, Grass-trees: 730 samples, Grass-pasture-mowed: 28 samples, Hay-windrowed: 478 samples, Oats: 20 samples, Soybean-notill: 972 samples, Soybean-mintill: 2455 samples, Soybean-clean: 593 samples, Wheat: 205 samples, Woods: 1265 samples, Buildings-Grass-Trees-Drives: 386 samples and Stone-Steel-Towers: 93 samples. 
+A vector of 224 spectral values is used to represent each sample in the collection. 
+The dataset also includes ground truth maps that indicate the true class labels for each pixel in the image.
+The Dataset is available on https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
